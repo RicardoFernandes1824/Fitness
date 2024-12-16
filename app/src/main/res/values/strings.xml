@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">StartingPage</string>
+
+    <!-- Text strings -->
+    <string name="stay_relentless">Stay Relentless</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create">Create</string>
+    <string name="account">Account</string>
+    <string name="no_excuses">No more excuses! \nChoose a workout plan and let's get moving.</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="hello">Hello</string>
+    <string name="chestTitle">Chest Workout</string>
+
+    <!-- Workout strings -->
+    <string name="chest_workout">Chest Workout</string>
+    <string name="back_workout">Back Workout</string>
+    <string name="legs_workout">Legs Workout</string>
+    <string name="reps">8 to 12reps</string>
+    <string name="sets">3 sets</string>
+    <string name="chest_exercise1">Incline Chest Press</string>
+    <string name="chest_exercise2">Bench Press</string>
+    <string name="chest_exercise3">Dumbbell Flies</string>
+    <string name="startWorkout">Start Workout</string>
+
+    <!-- Perfil strings -->
+    <string name="tellUs">Tell us more about yourself!</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="cm">Cm</string>
+    <string name="kg">Kg</string>
+    <string name="next">Next</string>
+
+    <!-- Perfil Setting strings -->
+    <string name="profile">Profile</string>
+    <string name="security">Security</string>
+    <string name="language">Language</string>
+    <string name="darkMode">Dark Mode</string>
+    <string name="logOut">Log Out</string>
+
+    <!-- Hint strings -->
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="enter_password_hint">Enter Password</string>
+    <string name="enter_email_hint">Enter Email Address</string>
+    <string name="enter_username_hint">Enter Username</string>
+
+    <!-- Bottom NavBar strings -->
+    <string name="workout">Workout</string>
+    <string name="activities">Activities</string>
+
+</resources>
